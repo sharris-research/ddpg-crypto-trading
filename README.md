@@ -18,7 +18,6 @@ Continuous action space \[-1, 1] allowing fractional position sizing
 Decaying Gaussian exploration noise during training
 Benchmarked against buy-and-hold baseline across all three fee regimes
 
-# Paper
-Download PDF
+# [Paper](https://github.com/sharris-research/ddpg-crypto-trading)
 
 Individual coursework. Academic work only - not financial advice.
